@@ -1,0 +1,1 @@
+select cgc from sapo.entidades where i_entidades = '{{id_entidade}}';
